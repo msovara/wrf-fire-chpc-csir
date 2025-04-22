@@ -35,7 +35,7 @@ WRF-Fire is a coupled atmosphere-fire model for simulating wildland fire behavio
 ## 📚 Documentation
 
 - ⚙️ [Installation Guide](docs/installation.md) - How to build and install WRF-Fire
-- 📖 [Usage Guide](docs/user-guide.md) - How to run WRF-Fire simulations
+- 📖 [Usage Guide](docs/user_guide.md) - How to run WRF-Fire simulations
 - 📜 [Sample PBS Job Script](docs/sample_job_script.pbs) - Example simulations with step-by-step instructions
 - 📊 [Sample Analysis Python Script](docs/sample_analysis.py) - Common issues and solutions
 - 🚧 [Example Cases- Under Development](docs/example_cases.md) - Tips for optimizing performance
