@@ -4,7 +4,7 @@ This repository provides documentation and scripts for building, installing, and
 
 ## 🌐 Overview
 
-WRF-Fire is a coupled atmosphere-fire model for simulating wildland fire behavior. It combines the Weather Research and Forecasting (WRF) model with a fire spread model to simulate the interaction between fire and atmosphere.
+WRF-Fire is a coupled atmosphere-fire model for simulating wildland fire behaviour. It combines the Weather Research and Forecasting (WRF) model with a fire spread model to simulate the interaction between fire and atmosphere.
 
 ## 🚀 Quick Start
 
