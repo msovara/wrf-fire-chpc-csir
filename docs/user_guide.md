@@ -66,7 +66,7 @@ cd ~/wrf_simulation/run
 cp $WRF_DIR/run/namelist.input .
 ```
 
-# Edit namelist.input for your simulation
+## Edit namelist.input for your simulation
 ### Fire-specific Configuration
 
 To enable fire modeling, add or modify the &fire section in namelist.input:
