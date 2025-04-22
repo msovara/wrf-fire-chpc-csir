@@ -48,4 +48,4 @@ WRF-Fire is installed on Lengau at:
 ```
 
 📬 Contact
-For support, please open a GitHub issue or contact CHPC support.
+For support, please open a GitHub issue or contact CHPC support: https://users.chpc.ac.za/helpdesk/tickets/submit/
