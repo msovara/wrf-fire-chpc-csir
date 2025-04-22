@@ -1,0 +1,26 @@
+
+### PBS Job Script
+
+Create a PBS job script (job_script.pbs):
+```bash
+#!/bin/bash
+#PBS -N wrf_fire
+#PBS -l walltime=12:00:00
+#PBS -l select=2:ncpus=24:mpiprocs=24
+#PBS -q normal
+#PBS -P PROJ_ID
+
+# Change to the directory where the job was submitted from
+cd $PBS_O_WORKDIR
+
+# Load the WRF-Fire module
+module load chpc/earth/wrf-fire/4.2.2
+
+# Run WRF with MPI
+mpirun -np $PBS_NP wrf.exe
+```
+
+Submit the job:
+```bash
+qsub job_script.pbs
+```
