@@ -43,3 +43,7 @@ WRF-Fire is a coupled atmosphere-fire model for simulating wildland fire behavio
 ## System Information
 
 WRF-Fire is installed on Lengau at:
+```bash
+/home/apps/chpc/earth/WRF-Fire-4.2.2
+```
+
