@@ -1,6 +1,6 @@
 # 🔥 WRF-Fire on Lengau
 
-This repository provides documentation and scripts for building, installing, and running WRF-Fire on the Lengau HPC system at CHPC.
+This repository provides documentation and scripts for building, installing, and running WRF-Fire on the Lengau HPC system at the CHPC.
 
 ## 🌐 Overview
 
