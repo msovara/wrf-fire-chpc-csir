@@ -15,8 +15,8 @@ WRF-Fire is a coupled atmosphere-fire model for simulating wildland fire behavio
 
 2. Create a working directory:
 ```bash
-  mkdir -p ~/wrf_fire_simulation
-  cd ~/wrf_fire_simulation
+  mkdir -p ~/lustre/wrf_fire_simulation
+  cd ~/lustre/wrf_fire_simulation
 ```
 
 3. Copy template files:
