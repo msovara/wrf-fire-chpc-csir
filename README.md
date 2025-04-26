@@ -47,5 +47,5 @@ WRF-Fire is installed on Lengau at:
 /home/apps/chpc/earth/WRF-Fire-4.2.2
 ```
 
-📬 Contact
-For support, please open a GitHub issue or contact CHPC support: https://users.chpc.ac.za/helpdesk/tickets/submit/
+📬 Contact For support:
+Please open a GitHub issue or contact CHPC support: https://users.chpc.ac.za/helpdesk/tickets/submit/
